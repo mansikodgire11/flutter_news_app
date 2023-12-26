@@ -1,16 +1,15 @@
 # flutter_news_app
 
-A new Flutter project.
+News app created in Flutter using News API for fetching realtime data and showing news around the world.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Custom news feed based on selected sources
+* Explore news based on categories
+* Saving articles
+* View all topics
+* Sharing articles
 
-A few resources to get you started if this is your first Flutter project:
+## App Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![News-App](https://github.com/mansikodgire11/flutter_news_app/assets/105235790/bee0d085-a17e-4dc1-9dde-01e9b04e2e18)
